@@ -33,7 +33,7 @@ bash generation.sh
 Run Multiple “Epochs”:
 
 ```
-multi_epoch.sh
+bash multi_epoch.sh
 ```
 
 
