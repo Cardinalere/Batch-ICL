@@ -8,7 +8,7 @@ This is the code for paper 'Batch-ICL: Effective, Efficient, and Order-Agnostic 
 pip install -r requirements.txt
 ```
 
-Install the [transformers](https://github.com/huggingface/transformers/tree/v4.35.0) from source. Copy the contents from the 'transformers' folder we provide into the 'transformers' library folder in your environment to replace '`src/transformers/models/llama/modeling_llama.py`', '`src/transformers/models/llama/__init__.py`', and '`src/transformers/__init__.py`'.
+Install the [transformers](https://github.com/huggingface/transformers/tree/v4.35.0) from source. Copy the contents from the 'transformers' folder we provide into the 'transformers' library folder in your environment to replace '`src/transformers/models/llama/modeling_llama.py`', '`src/transformers/models/llama/__init__.py`', '`src/transformers/__init__.py`' and '`src/transformers/modeling_outputs.py`'.
 
 ## Run
 
